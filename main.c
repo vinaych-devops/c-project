@@ -5,7 +5,7 @@ biggest2();
 factorial();
 reverse();
 palindrome();
-sumof2();
+add2();
 fibonacci();
-sortingnum();
+sortnumber();
 }
