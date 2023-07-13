@@ -1,5 +1,5 @@
 #include <stdio.h>
-void sumof2() {    
+void add2() {    
 
     int number1, number2, sum;
 
