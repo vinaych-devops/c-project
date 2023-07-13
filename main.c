@@ -6,6 +6,6 @@ factorial();
 reverse();
 palindrome();
 sumof2();
-fibonaci();
+fibonacci();
 sortingnum();
 }
