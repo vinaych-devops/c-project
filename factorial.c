@@ -1,5 +1,5 @@
 #include<stdio.h>  
-int main()    
+void facorial()    
 {    
  int i,fact=1,number;    
  printf("Enter a number: ");    
