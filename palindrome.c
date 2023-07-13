@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+void palindrome() {
   int n, reversed = 0, remainder, original;
     printf("Enter an integer: ");
     scanf("%d", &n);
